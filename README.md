@@ -1,76 +1,145 @@
+<!-- HEADER -->
+
+<div align="center">
+
 # 👋 Hi, I'm Abdul Rehman
 
 ### 💻 Frontend Developer | React Developer
 
-I am a passionate web developer currently learning Modern Web Development
-and building responsive, user-friendly web applications.
+**Building responsive & user-friendly web experiences 🚀**
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
+
+<!-- ABOUT -->
 
 ## 🚀 About Me
 
-- 🌱 Currently learning React.js
-- 💻 Building projects with HTML, CSS, JavaScript & React
-- 🎯 Working toward becoming a Full Stack Developer
-- 🧠 Interested in modern web technologies
-- 🚀 I love learning by building real projects
+I'm a passionate **Frontend Developer** focused on building modern,
+responsive and user-friendly web applications.
+
+- 🌱 Currently learning **React.js & Modern Web Development**
+- 💻 Building projects using **HTML, CSS, JavaScript & React**
+- 🧠 Improving my **JavaScript & React** skills through real projects
+- 🔌 Learning **API Integration**
+- 🎯 Working toward becoming a **Full Stack Developer**
+- 🚀 I believe in **learning by building**
 
 ---
+
+<!-- TECH STACK -->
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-HTML5 • CSS3 • JavaScript • React.js
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-### Tools
+### 🔧 Tools & Technologies
 
-Git • GitHub • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
+
+<!-- CURRENTLY LEARNING -->
 
 ## 📚 Currently Learning
 
-- React Components
-- JSX
-- Props
-- State
-- React Hooks
-- API Integration
-- JavaScript ES6+
-- Full Stack Development
+<table>
+<tr>
+<td>⚛️ React Components</td>
+<td>🧩 JSX</td>
+</tr>
+
+<tr>
+<td>📦 Props & Destructuring</td>
+<td>🔄 State & Hooks</td>
+</tr>
+
+<tr>
+<td>🌐 API Integration</td>
+<td>📋 Rendering Lists</td>
+</tr>
+
+<tr>
+<td>⚡ JavaScript ES6+</td>
+<td>🚀 Full Stack Development</td>
+</tr>
+</table>
 
 ---
+
+<!-- PROJECTS -->
 
 ## 🚀 Featured Projects
 
-| Project | Technology | Description |
-|---|---|---|
-| 🎮 Ludo Game | HTML CSS JavaScript | Interactive Ludo board |
-| ⌚ WatchWise | React | Watch store application |
-| 🍔 Food Menu | JavaScript API | Food menu using API |
-| 📝 Todo App | JavaScript | Todo application with Local Storage |
-| 🧮 Calculator | JavaScript | Simple calculator |
+<table>
+<tr>
+<th>Project</th>
+<th>Technology</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td>🎮 <b>Ludo Game</b></td>
+<td>HTML • CSS • JavaScript</td>
+<td>Interactive Ludo board project</td>
+</tr>
+
+<tr>
+<td>⌚ <b>WatchWise</b></td>
+<td>React.js</td>
+<td>Watch store application with reusable components</td>
+</tr>
+
+<tr>
+<td>🍔 <b>Food Menu</b></td>
+<td>JavaScript • API</td>
+<td>Food menu application using API integration</td>
+</tr>
+
+<tr>
+<td>📝 <b>Todo App</b></td>
+<td>JavaScript</td>
+<td>Task management app using Local Storage</td>
+</tr>
+
+<tr>
+<td>🧮 <b>Calculator</b></td>
+<td>JavaScript</td>
+<td>Simple calculator application</td>
+</tr>
+
+</table>
 
 ---
+
+<!-- WHAT I'M WORKING ON -->
 
 ## 💡 What I'm Working On
 
-Currently building React projects and improving my
-JavaScript and frontend development skills.
-  
----
-
-## 🤝 Connect With Me
-
-📧 Email:abdulrehmanars1996@gmail.com
-
-💼 LinkedIn: soon
-
-🐙 GitHub:https://github.com/AR-webcod
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-Keep Learning • Keep Building • Keep Growing 🚀
+```text
+⚛️ React Projects
+   ↓
+🌐 API Integration
+   ↓
+🧠 Advanced JavaScript
+   ↓
+💻 Full Stack Development
