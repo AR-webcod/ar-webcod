@@ -63,11 +63,11 @@ JavaScript and frontend development skills.
 
 ## 🤝 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email:abdulrehmanars1996@gmail.com
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: soon
 
-🐙 GitHub: Your GitHub Profile
+🐙 GitHub:https://github.com/AR-webcod
 
 ---
 
