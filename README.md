@@ -6,16 +6,18 @@
 
 ### 💻 Frontend Developer | React Developer
 
-**Building responsive & user-friendly web experiences 🚀**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Real+World+Projects;Future+Full+Stack+Developer" alt="Typing SVG" />
+</p>
       
 <p>
-  <a href="https://github.com/ar-webcodE">
+  <a href="https://github.com/ar-webcod">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulrehman43/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abdulrehmanars1996@gmail.com">
+  <a href="abdulrehmanars1996@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
